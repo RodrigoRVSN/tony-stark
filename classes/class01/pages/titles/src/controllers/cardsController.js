@@ -25,6 +25,7 @@ export default class CardsController {
 
   #onSearchInput(keyword) {
     this.#view.clearCards()
+
     this.addCards(keyword)
   }
 
