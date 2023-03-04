@@ -14,3 +14,10 @@ index.js -> Responsable to call the layers
 - Weight logic (CPU)
 - Everything that lock the screen
 - Call business logic from service
+
+### ⚒️ Techs used
+
+- Javascript
+- Tensorflow
+- Service Workers
+
